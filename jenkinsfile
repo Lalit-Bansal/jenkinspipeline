@@ -15,7 +15,7 @@ pipeline {
        
        stage ('Deploy'){
         steps {
-          echo Çode deployed.'
+          echo 'Çode deployed.'
           }
          }
          
